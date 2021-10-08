@@ -1,7 +1,4 @@
-<p align="center">
-    <img alt="logo" src="https://uviewui.com/common/logo.png" width="120" height="120" style="margin-bottom: 10px;">
-</p>
-<h3 align="center" style="margin: 30px 0 30px;font-weight: bold;font-size:40px;">uView</h3>
+<h3 align="center" style="margin: 30px 0 30px;font-weight: bold;font-size:40px;">Share H5</h3>
 <h3 align="center">多平台快速开发的UI框架</h3>
 
 [![star](https://gitee.com/xuqu/uView/badge/star.svg?theme=gvp)](https://gitee.com/xuqu/uView/stargazers)
@@ -15,16 +12,6 @@
 
 ## 说明
 
-uView UI，是[uni-app](https://uniapp.dcloud.io/)生态优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
-
-## [官方文档：https://www.uviewui.com](https://www.uviewui.com)
-
-### 官方1群：1042987248（已满）
-### 官方2群：249718512（已满）
-### 官方3群：1129077272（已满）
-### 官方4群：1084514613（已满）
-### 官方5群：863820668（已满）
-### [点击加6群交流反馈：745721078](https://qm.qq.com/cgi-bin/qm/qr?k=nSvu1k6AFqHVvZhgN9FEavJPXIMyYCxY&jump_from=webapi)
 
 ## 特性
 
@@ -63,8 +50,6 @@ uView UI，是[uni-app](https://uniapp.dcloud.io/)生态优秀的UI框架，全�
 - [关于我们](https://uviewui.com/cooperation/about.html)
 
 ## 交流反馈
-
-欢迎加入我们的QQ群交流反馈：[点此跳转](https://www.uviewui.com/components/addQQGroup.html)
 
 ## 安装
 
@@ -130,8 +115,5 @@ Vue.use(uView);
 
 uView文档内容和框架源码全部开源免费，如果您认为uView帮到了您的开发工作，您可以捐赠uView的研发工作，捐赠无门槛，哪怕是一杯可乐也好(相信这比打赏主播更有意义)。
 
-<img src="https://uviewui.com/common/wechat.png" width="220" >
-<img style="margin-left: 100px;" src="https://uviewui.com/common/alipay.png" width="220" >
-
 ## 版权信息
-uView遵循[MIT](https://en.wikipedia.org/wiki/MIT_License)开源协议，意味着您无需支付任何费用，也无需授权，即可将uView应用到您的产品中。
+Share H5遵循[MIT](https://en.wikipedia.org/wiki/MIT_License)开源协议，意味着您无需支付任何费用，也无需授权，即可将uView应用到您的产品中。
